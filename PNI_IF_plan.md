@@ -19,4 +19,6 @@
 **Other**
 * **PDAC:** CK19
 
-> **Note:** Your notes include a diagram of a nerve cross-section and an arrow specifically linking **NFH** (under Myelinated Neuron) to **NFH** (under Pan-Neuron), indicating its shared use as a marker.
+Tyrosine Hydroxylase | 1:500 | Rabbit | Millipore	| AB152 | AB_390204
+
+Vesicular Acetylcholine Transporter | 1:500 | Rabbit | Synaptic Systems	| 139 103 | AB_887864
